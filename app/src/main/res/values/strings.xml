@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DMPlayer</string>
+    <string name="DataBaseName">DMPlayer</string>
+    <string name="DataBaseName_Version">1</string>
+
+</resources>
